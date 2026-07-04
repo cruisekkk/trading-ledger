@@ -2,6 +2,8 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![Works with: Claude Code · Claude.ai](https://img.shields.io/badge/works%20with-Claude%20Code%20·%20Claude.ai-d97757)](#install) [![Notion template](https://img.shields.io/badge/Notion%20template-EN%20·%20中文-black?logo=notion)](https://spiral-jump-106.notion.site/5ac095dfaafb4fd389875db6a5c7193a)
+
 **A journal that makes you say your reason out loud at the moment of entry.** You report a trade in plain language — *"bought 500 NVDA at 135, stop at 128, betting on the post-earnings dip filling"* — and an AI writes it to your own Notion database: ticker, size, price, **and the part every spreadsheet journal loses: your thesis, your plan, and how you felt**. If you don't state a reason, it asks. That's the whole trick.
 
 ```
@@ -84,3 +86,7 @@ This is a journaling tool. It records and mirrors your own decisions; it does **
 ## License
 
 MIT — see [LICENSE](./LICENSE). Fork it, use it, ship your own version.
+
+---
+
+*If trading-ledger is useful, a ⭐ helps more people find it. Bugs, ideas, your own review rituals → [the feedback thread](https://github.com/cruisekkk/trading-ledger/issues/1).*

@@ -2,6 +2,8 @@
 
 [English](README.md) | **简体中文**
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![Works with: Claude Code · Claude.ai](https://img.shields.io/badge/works%20with-Claude%20Code%20·%20Claude.ai-d97757)](#安装) [![Notion 模板](https://img.shields.io/badge/Notion%20模板-中文%20·%20EN-black?logo=notion)](https://spiral-jump-106.notion.site/5f92910834c44321af7661f98f062e27)
+
 **一个逼你在入场那一刻把理由说出口的账本。** 随口报一笔交易——*"135 买了 500 股 NVDA，止损 128，赌财报后回调到位"*——AI 写进你自己的 Notion 数据库：标的、数量、价格，**以及所有表格式日志都留不住的东西：你的入场理由、交易计划、当时的情绪**。不说理由？它会追问。全部的诀窍就这一个。
 
 ```
@@ -84,3 +86,7 @@ cp trading-ledger/SKILL.zh-CN.md ~/.claude/skills/trading-ledger/SKILL.md
 ## License
 
 MIT——见 [LICENSE](./LICENSE)。随便 fork、随便用、欢迎发你自己的版本。
+
+---
+
+*如果这个账本对你有用，点个 ⭐ 能让更多人看到它。Bug、想法、你自己的复盘仪式 → [反馈楼](https://github.com/cruisekkk/trading-ledger/issues/1)。*
