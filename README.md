@@ -15,6 +15,17 @@ AI:   Updated ✅ Thesis: pre-earnings run-up · Plan: hold through earnings
 
 Then, on review day: *"review my trades"* — and it walks every closed trade through three questions: **did the thesis play out? did you follow the plan? which trades were emotion-tagged?** A per-plan loss grades better than a lucky win, and it says so.
 
+<table>
+<tr>
+<th width="50%">💬 Web / phone · Claude.ai</th>
+<th width="50%">⌨️ Terminal · Claude Code</th>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/demo-web.gif" alt="claude.ai demo: log a trade in one sentence — it captures the thesis and asks for the missing target" width="100%" /></td>
+<td width="50%"><img src="./assets/demo-terminal.gif" alt="terminal demo: closing a trade matches the open row and grades execution against your own plan" width="100%" /></td>
+</tr>
+</table>
+
 ## Why
 
 The habit that keeps surfacing in the *Market Wizards* interviews is unglamorous: a written record of every trade's decision process, reviewed on a schedule. Not to track P&L — the broker does that — but because **the entry reason decays overnight**. A week later you genuinely cannot remember whether you bought on a thesis or on a feeling, and your memory will flatter you.
