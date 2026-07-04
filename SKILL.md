@@ -56,6 +56,7 @@ Query recently `Closed` rows plus all `Open` rows. For each, three questions: **
 
 ## Guardrails
 
+- ✅ Known Notion MCP bug ([notion-mcp-server#121](https://github.com/makenotion/notion-mcp-server/issues/121)): `create-pages` can silently drop expanded date fields — after the session's first write, read the row back; if the date is empty, fill it with `update-page`
 - ❌ Don't compute P&L you're unsure of — options and futures have multipliers; use the user's numbers
 - ❌ Don't invent select values; copy the enum
 - ❌ A review is not a P&L total — it grades thesis and execution
